@@ -1,0 +1,224 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "name": "Razer Blade 14 - QHD 165Hz - GeForce RTX 3070 Ti - Quartz",
+      "url": "https://assets3.razerzone.com/6HdPI17zeZs1ZTLbglXzYgWg1_g=/500x500/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh5c%2Fh90%2F9453354057758%2Fblade-14-p8-quartz-fhd-qhd-2-500x500.png",
+      "price": 2199.99,
+      "details": "14-inch Gaming Laptop with AMD Ryzen™ 6900HX",
+      "details1": "AMD Ryzen™ 9 6900HX",
+      "details2": "GeForce RTX 3070 Ti",
+      "details3": "16GB 4800MHz RAM, 1TB SSD",
+      "categorie": "laptops"
+    },
+    {
+      "id": 2,
+      "name": "Razer Blade 14 - Full HD 144Hz - GeForce RTX 3060 - Mercury",
+      "url": "https://assets3.razerzone.com/0Ab864eqnrTXT7wnKgsRTZZCIvk=/500x500/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh05%2Fh90%2F9453354024990%2Fblade-14-p8-mercury-fhd-qhd-2-500x500.png",
+      "price": 1849.99,
+      "details": "14-inch Gaming Laptop with AMD Ryzen™ 6900HX",
+      "details1": "AMD Ryzen™ 9 6900HX",
+      "details2": "GeForce RTX 3060",
+      "details3": "16GB 4800MHz RAM, 1TB SSD",
+      "categorie": "laptops"
+    },
+    {
+      "id": 3,
+      "name": "Razer Tomahawk ATX",
+      "url": "https://assets3.razerzone.com/zljRITN_hzSN4L37rhLbPuY6EFw=/500x500/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhe6%2Fh3f%2F9090917498910%2F500x500-tomahawk-ATX.png",
+      "price": 249.99,
+      "details": "Mid-tower ATX Gaming Chassis with Razer Chroma RGB",
+      "details1": "Dual-sided tempered glass swivel doors",
+      "details2": "Powered by Razer Chroma™ RGB",
+      "details3": "Ventilated top panel and dust filters",
+      "categorie": "components"
+    },
+    {
+      "id": 4,
+      "name": "Razer Chroma Addressable RGB Controller",
+      "url": "https://assets3.razerzone.com/P-SxSG9vl3bhUAOjNclmbVnnWD8=/500x500/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh78%2Fh63%2F9122819178526%2Frazer-chroma-addressable-rgb-controller-500x500.png",
+      "price": 39.99,
+      "details": "Compatible to work with any ARGB device",
+      "details1": "6 Addressable RGB headers",
+      "details2": "Support for WS2812b or equivalent LED types",
+      "details3": "USB connection (USB 2.0 Micro-B)",
+      "categorie": "components"
+    },
+    {
+      "id": 5,
+      "name": "Razer DeathAdder V3 Pro",
+      "url": "https://assets3.razerzone.com/y2tvnUAQsHDV6h7z-sm7E49ehxM=/500x500/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhc9%2Fh51%2F9449963946014%2Fdeathadder-v3-pro-black-v2-500x500.png",
+      "price": 149.99,
+      "details": "Ultra-lightweight Wireless Ergonomic Esports Mouse",
+      "details1": "Ultra-lightweight Design",
+      "details2": "Refined Ergonomic Form",
+      "details3": "Razer™ Focus Pro 30K Optical Sensor",
+      "categorie": "mice"
+    },
+    {
+      "id": 6,
+      "name": "Razer Basilisk V3 Pro",
+      "url": "https://assets3.razerzone.com/a3Ybm8jEE5HfEXz-3W70ZqDehUs=/500x500/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh22%2Fh08%2F9447199080478%2Fbasilisk-v3-pro-white-500x500.png",
+      "price": 159.99,
+      "details": "Customizable Wireless Gaming Mouse with Razer HyperScroll Tilt Wheel",
+      "details1": "Razer™ HyperScroll Tilt Wheel",
+      "details2": "13-Zone Chroma Lighting with Full Underglow",
+      "details3": "Iconic Ergonomic Form with 10+1 Programmable Buttons",
+      "categorie": "mice"
+    },
+    {
+      "id": 7,
+      "name": "Razer BlackWidow V3",
+      "url": "https://assets3.razerzone.com/lG472mJG7VRIpB9wSLK1tWJykRg=/500x500/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh66%2Fhed%2F9090120679454%2Fblackwidow-v3-500x500.png",
+      "price": 139.99,
+      "details": "Mechanical Gaming Keyboard with Razer Chroma RGB",
+      "details1": "Razer™ Yellow Mechanical Switches",
+      "details2": "Transparent switch housing",
+      "details3": "Doubleshot ABS keycaps",
+      "categorie": "keyboard"
+    },
+    {
+      "id": 8,
+      "name": "Razer DeathStalker V2",
+      "url": "https://assets3.razerzone.com/P4uX00Gx4HQZw5IAizXrTbNDZOg=/500x500/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhee%2Fh89%2F9422803435550%2Fdeathstalker-v2-pro-2-500x500.png",
+      "price": 249.0,
+      "details": "Wireless Low-Profile RGB Optical Gaming Keyboard",
+      "details1": "Razer™ Low-Profile Optical Switches (Clicky)",
+      "details2": "Top-Class Connectivity",
+      "details3": "Ultra-Long 40-Hour Battery Life",
+      "categorie": "keyboard"
+    },
+    {
+      "id": 9,
+      "name": "Razer Kraken V3 Pro",
+      "url": "https://assets3.razerzone.com/U96cxEcqLPKUhuxPw3KO7xSNqYk=/500x500/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh6a%2Fhff%2F9397630140446%2Fkraken-v3-pro-3-500x500.png",
+      "price": 199.99,
+      "details": "Wireless Gaming Headset with Haptic Technology",
+      "details1": "Razer HyperSense",
+      "details2": "Razer™ TriForce Titanium 50mm Drivers",
+      "details3": "THX Spatial Audio",
+      "categorie": "audio"
+    },
+    {
+      "id": 10,
+      "name": "Razer Barracuda Pro",
+      "url": "https://assets3.razerzone.com/eY_PQPH1wakpUwz0Ge0sdDlQW70=/500x500/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhbb%2Fhe8%2F9412836753438%2Fbarracuda-2-500x500.png",
+      "price": 249.99,
+      "details": "Wireless Gaming Headset with Hybrid ANC",
+      "details1": "Hybrid Active Noise Cancellation (ANC) Technology",
+      "details2": "THX Achromatic Audio Amplifier (THX AAA™)",
+      "details3": "Razer™ SmartSwitch Dual Wireless",
+      "categorie": "audio"
+    },
+    {
+      "id": 11,
+      "name": "Razer Kiyo Pro",
+      "url": "https://assets3.razerzone.com/jqcmoIxBpvgsUa3Qc73wnRzL2cc=/500x500/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhf0%2Fh19%2F9147860779038%2Fkiyo-pro-500x500.png",
+      "price": 99.99,
+      "details": "USB Camera with High-Performance Adaptive Light Sensor",
+      "details1": "High-performance adaptive light sensor",
+      "details2": "Uncompressed 1080p 60FPS",
+      "details3": "HDR-enabled",
+      "categorie": "streaming"
+    },
+    {
+      "id": 12,
+      "name": "Razer Seiren V2 Pro",
+      "url": "https://assets3.razerzone.com/ppbkpoPa1gH7KYo-_eAgCaQW1fc=/500x500/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhd6%2Fh1a%2F9248849231902%2FSeiren-V2-Pro-500x500.png",
+      "price": 149.99,
+      "details": "Professional-grade USB Microphone for Streamers",
+      "details1": "30 mm Dynamic Microphone",
+      "details2": "High Pass Filter",
+      "details3": "Analog Gain Limiter",
+      "categorie": "streaming"
+    },
+    {
+      "id": 13,
+      "name": "Razer Enki Pro",
+      "url": "https://assets3.razerzone.com/quvWc1_YeefR-uO44Y4FtkgQONE=/500x500/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh15%2Fh72%2F9407543672862%2Fenki-pro-500x500.png",
+      "price": 999.0,
+      "details": "Premium Gaming Chair with Alcantara® Leather for All-Day Comfort",
+      "details1": "Upholstered with Alcantara",
+      "details2": "Designed for All-day Comfort",
+      "details3": "Built-in Lumbar Arch",
+      "categorie": "chairs"
+    },
+    {
+      "id": 14,
+      "name": "Razer Iskur",
+      "url": "https://assets3.razerzone.com/y453D_RMc62OvR6krHZwpN0WBqo=/500x500/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh49%2Fh92%2F9151223103518%2Fiskur-black-500x500.png",
+      "price": 449.99,
+      "details": "Get a Team Razer Floor Rug - Black / Green when you purchase the Razer Iskur (XL included).",
+      "details1": "Fully sculpted lumbar support",
+      "details2": "Multi-layered synthetic leather",
+      "details3": "High density foam cushions",
+      "categorie": "chairs"
+    },
+    {
+      "id": 15,
+      "name": "Razer Wolverine V2 Pro",
+      "url": "https://assets3.razerzone.com/_jne7rN5P9qlRZNcQOwQdD_4vm4=/500x500/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhd6%2Fh5c%2F9450413228062%2Fwolverine-v2-pro-white-500x500.png",
+      "price": 249.99,
+      "details": "Wireless Pro Gaming Controller for PS5™ Consoles and PC",
+      "details1": "Razer™ HyperSpeed Wireless",
+      "details2": "Razer™ Mecha-Tactile Action Buttons",
+      "details3": "8-Way Microswitch D-Pad",
+      "categorie": "console"
+    },
+    {
+      "id": 16,
+      "name": "Razer Kaira Pro for PlayStation",
+      "url": "https://assets3.razerzone.com/j4lJXHfCggPYfh283ShPN-Jk1SY=/500x500/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhe9%2Fh33%2F9397620211742%2Fkaira-pro-ps-2-500x500.png",
+      "price": 129.99,
+      "details": "Dual Wireless PlayStation 5 Headset with Haptics",
+      "details1": "Razer™ HyperSense",
+      "details2": "Razer™ TriForce Titanium 50mm Drivers",
+      "details3": "Detachable Razer™ HyperClear Supercardioid Mic",
+      "categorie": "console"
+    },
+    {
+      "id": 17,
+      "name": "Razer Kishi V2 for iPhone",
+      "url": "https://assets3.razerzone.com/Wzmn_tewrgJAVXcViCeEcuDbIyM=/500x500/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhb7%2Fh27%2F9408540147742%2Fkishi-v2-iphone-500x500.png",
+      "price": 99.99,
+      "details": "Universal Mobile Gaming Controller for iPhone",
+      "details1": "Console-Quality Mobile Gaming Controls",
+      "details2": "Universal Fit with Extendable Bridge",
+      "details3": "Stream PC and Console Games",
+      "categorie": "mobile"
+    },
+    {
+      "id": 18,
+      "name": "Razer Kishi V2 for Android",
+      "url": "https://assets3.razerzone.com/Wzmn_tewrgJAVXcViCeEcuDbIyM=/500x500/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhb7%2Fh27%2F9408540147742%2Fkishi-v2-iphone-500x500.png",
+      "price": 99.99,
+      "details": "Universal Mobile Gaming Controller for Android",
+      "details1": "Console-Quality Mobile Gaming Controls",
+      "details2": "Universal Fit with Extendable Bridge",
+      "details3": "Stream PC and Console Games",
+      "categorie": "mobile"
+    },
+    {
+      "id": 19,
+      "name": "Razer Sneki Snek Wall Light",
+      "url": "https://assets3.razerzone.com/y9QelSTsiRmsw4Pa4m8uJxYcWF0=/500x500/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh56%2Fh6c%2F9444520329246%2Fsneki-snek-wall-light-500x500.png",
+      "price": 79.99,
+      "details": "Wall-mounted LED Neon Gaming Light with RGB Lighting",
+      "details1": "4 Dynamic RGB Lighting Effects",
+      "details2": "Plug and Play",
+      "details3": "Easy Setup and Wall-mounting",
+      "categorie": "gear"
+    },
+    {
+      "id": 20,
+      "name": "Razer Sneki Snek Plushie",
+      "url": "https://assets3.razerzone.com/5EyfK2388PbHt-MCjVuiCrfL2Lo=/500x500/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh58%2Fh9b%2F9090910715934%2Fsneki-snek-plushie-500x500.png",
+      "price": 29.99,
+      "details": "Optimized for cuddles and Razer fans of all ages",
+      "details1": "100% Polyester Plushie",
+      "details2": "100% Biodegradable Polybag Packaging",
+      "details3": "Every Sneki Snek Sold Saves 10 Trees",
+      "categorie": "gear"
+    }
+  ]
+}
