@@ -1,6 +1,7 @@
 # Carrinho de compras inspirado na loja da Razer
 
 Projeto desenvolvido para apresentar o que aprendemos no curso de React da Labenu. 
+
 O objetivo é que funcione como o front-end de um E-Commerce.
 
 ## 🚀 Surge
