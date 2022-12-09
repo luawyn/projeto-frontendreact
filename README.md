@@ -19,7 +19,7 @@ http://project-react-store.surge.sh/
 
 - Adicionar cupom de desconto
 
-- Utilizar o frete grátis com compras somente acima de $49.
+- Utilizar o frete grátis em compras somente acima de $49.
 
 ## Referência
 
