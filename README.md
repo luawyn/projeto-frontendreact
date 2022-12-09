@@ -5,7 +5,7 @@ Projeto desenvolvido para apresentar o que aprendemos no curso de React da Laben
 O objetivo é que funcione como o front-end de um E-Commerce.
 
 ## 🚀 Surge
-https://project-react-store.surge.sh/
+http://project-react-store.surge.sh/
 
 ## Roadmap
 
@@ -69,6 +69,6 @@ Se você tiver algum feedback, por favor contate-me por meio de luanaftrevizani@
 
 ![empty](https://user-images.githubusercontent.com/92114917/206788292-fdb597b9-db7d-451a-8196-4f6f3d7a8280.png)
 
-![checkout](https://user-images.githubusercontent.com/92114917/206788404-002d10c7-84aa-4b7e-a891-29df0ca4408a.png)
+![checkout](https://user-images.githubusercontent.com/92114917/206790282-788a3487-f7f0-47c1-8688-230dda252646.png)
 
 
